@@ -12,7 +12,7 @@ print(f" Đã đọc thành công: {df.shape[0]} hàng, {df.shape[1]} cột")
 
 if 'name' in df.columns:
     df = df.drop(columns=['name'])
-    print(" Đã loại bỏ cột 'name' (không cần cho phân tích).")
+    print(" Đã loại bỏ cột 'name'.")
 
 # Xuất ra CSV để nộp
 df.to_csv(csv_path, index=False)
