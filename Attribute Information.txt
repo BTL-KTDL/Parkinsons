@@ -1,0 +1,37 @@
+Attribute Information:
+
+Matrix column entries (attributes):
+
+name - ASCII subject name and recording number
+MDVP:Fo(Hz) - Average vocal fundamental frequency
+MDVP:Fhi(Hz) - Maximum vocal fundamental frequency
+MDVP:Flo(Hz) - Minimum vocal fundamental frequency
+MDVP:Jitter(%), MDVP:Jitter(Abs), MDVP:RAP,MDVP:PPQ,Jitter:DDP - Several
+
+measures of variation in fundamental frequency
+
+MDVP:Shimmer, MDVP:Shimmer(dB), Shimmer:APQ3, Shimmer:APQ5, MDVP:APQ, Shimmer:DDA - Several measures of variation in amplitude
+NHR, HNR - Two measures of ratio of noise to tonal components in the voice
+status - Health status of the subject (one) - Parkinson's, (zero) - healthy
+RPDE, D2 - Two nonlinear dynamical complexity measures
+DFA - Signal fractal scaling exponent
+spread1, spread2, PPE - Three nonlinear measures of fundamental frequency variation
+
+Thông tin Thuộc tính:
+
+Các mục nhập cột ma trận (thuộc tính):
+
+name - Tên chủ thể ASCII và số bản ghi
+MDVP:Fo(Hz) - Tần số cơ bản giọng nói trung bình
+MDVP:Fhi(Hz) - Tần số cơ bản giọng nói tối đa
+MDVP:Flo(Hz) - Tần số cơ bản giọng nói tối thiểu
+MDVP:Jitter(%), MDVP:Jitter(Abs), MDVP:RAP,MDVP:PPQ,Jitter:DDP - Một số
+
+biện pháp đo lường sự biến thiên của tần số cơ bản
+
+MDVP:Shimmer, MDVP:Shimmer(dB), Shimmer:APQ3, Shimmer:APQ5, MDVP:APQ, Shimmer:DDA - Một số biện pháp đo lường sự biến thiên của biên độ
+NHR, HNR - Hai biện pháp đo lường tỷ lệ nhiễu trên các thành phần âm sắc trong giọng nói
+status - Tình trạng sức khỏe của chủ thể (một) - Parkinson, (không) - khỏe mạnh
+RPDE, D2 - Hai biện pháp đo lường độ phức tạp động phi tuyến tính
+DFA - Số mũ tỷ lệ fractal tín hiệu
+spread1, spread2, PPE - Ba biện pháp đo lường phi tuyến tính của các thành phần cơ bản sự thay đổi tần số
